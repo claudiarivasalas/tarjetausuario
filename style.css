@@ -1,0 +1,62 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0px;
+    /* border: dotted !important; */
+}
+
+.contenedor{
+    height: 400px;
+    width: 700px;
+}
+
+.fila1{
+    height: 100px;
+    width: 697px;
+    background-color: cyan;
+    display: flex;
+}
+
+.fila2{
+    display: flex;
+}
+
+.fila3{
+    display: flex;
+}
+
+.h1 {
+    font-size: 5em;
+}
+
+.blanco{
+    height: 50px;
+    width: 400px;
+}
+
+.identificacion{
+    margin-left: 20px;
+}
+
+.ubicacion{
+    margin-top: 10px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.info{
+    margin-top: 10px;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+.profile{
+    margin-top: 10px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.container {
+    width: inherit;
+    border-radius: 50px;
+    margin: 50px;
+    justify-content: left;
+}
